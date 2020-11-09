@@ -1,0 +1,1 @@
+INSERT INTO DOCTOR(ID, EMAIL, NAME, SURNAME, SPECIALIZATION, PASSWORD) VALUES(2, 'emedicalcliniccenter@gmail.com', 'Andrzej', 'Nowak', 'Ginekolog', '$2a$10$3wbL66bcxRIFl3mENYTv1.wUln2.53Bh5yv7bPcO7OAU4UzqQ.Ewe');
